@@ -7,9 +7,9 @@ This project utilizes advanced machine learning techniques to predict residentia
 
 Key Features:
 
-📊 Robust Regression Models: Implementation of powerful regression algorithms, including Linear Regression, Decision Trees, Random Forests, and Gradient Boosting.
+📊 Robust Regression Models: Implementation of powerful regression algorithm Linear Regression.
 🌐 User-Friendly Interface: An intuitive interface for users to input property details and receive accurate price predictions, accompanied by insightful visualizations.
-🔄 Continuous Improvement: Regularly updated models, fine-tuned parameters, and additional features to enhance accuracy and relevance.
+
 How to Use:
 
 🛠 Clone the repository to your local machine.
@@ -19,21 +19,6 @@ Contribution Guidelines:
 
 👩‍💻 Contributions are welcome! Feel free to open issues, suggest improvements, or submit pull requests.
 📖 Check out the wiki for detailed documentation and guidelines.
-Future Roadmap:
 
-📈 Real-time Data Integration
-📱 Deployment as a Web/Mobile Application
-🌐 Integration of Additional Features
-Acknowledgments:
-
-🙏 We acknowledge the contribution of the open-source community and welcome collaboration.
-License:
-This project is licensed under the MIT License.
-
-Stay Connected:
-
-Follow us for updates!
-Twitter
-LinkedIn
 Let's reshape the future of real estate together! 🏠
 
